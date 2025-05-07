@@ -31,7 +31,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/olegmine/HDD_Predictor.git
-   cd HDD_Predictor
+   cd HDD_Predictor.git
    ```
 
 2. Установите зависимости:
